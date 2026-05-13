@@ -1,0 +1,6 @@
+# Example configuration
+# Copy to terraform.tfvars and customize
+ 
+aws_region   = "us-east-1"
+project_name = "myproject"
+environment  = "dev"
